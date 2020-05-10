@@ -3,12 +3,12 @@ entries:
   itzg-minecraft:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-10T00:28:57.355931544Z"
+    created: "2020-05-10T00:31:22.331551601Z"
     description: itzg/minecraft kubernetes chart
-    digest: dc7db9e32fa1e3e00b62f2f112c6eff4956b727afcc92f1b8da3d7bce600bf4b
+    digest: d7941f3702650f10b87c67917f94415e6ea1dcbc740ff43e51d90b012cc148e5
     name: itzg-minecraft
     type: application
     urls:
-    - itzg-minecraft-0.1.0.tgz
-    version: 0.1.0
-generated: "2020-05-10T00:28:57.354467091Z"
+    - itzg-minecraft-1.0.0.tgz
+    version: 1.0.0
+generated: "2020-05-10T00:31:22.330912866Z"

@@ -3,7 +3,7 @@ entries:
   itzg-minecraft:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2020-05-19T17:17:55.917805094Z"
+    created: "2020-05-20T20:26:55.031704465Z"
     description: itzg/minecraft kubernetes chart
     digest: df5fec7415b4b7e2507bb8d0faf331a631a73daf7965b32f9e0fb994d9fec252
     name: itzg-minecraft
@@ -11,4 +11,15 @@ entries:
     urls:
     - itzg-minecraft-1.1.0.tgz
     version: 1.1.0
-generated: "2020-05-19T17:17:55.913342693Z"
+  unifi:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2020-05-20T20:26:55.033703849Z"
+    description: A Helm chart for Kubernetes
+    digest: 45078acd7180f819b1e93c09cb0cca9d58b4b2681f2a66b532673aba3e0c1ba4
+    name: unifi
+    type: application
+    urls:
+    - unifi-0.1.0.tgz
+    version: 0.1.0
+generated: "2020-05-20T20:26:55.028950412Z"
